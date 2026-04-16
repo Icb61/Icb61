@@ -1,3 +1,4 @@
+
 &nbsp;&nbsp;&nbsp;
 
 <p align="center"><img src="Corrosion_Fell_Bullet_Yi_Sang_Idle_Animation.gif" width="300px"></p>
@@ -8,3 +9,5 @@
 </a>
   
 &nbsp;&nbsp;&nbsp;
+
+[Intervallo III-1 Battle Theme.wav](https://github.com/user-attachments/files/26796693/Intervallo.III-1.Battle.Theme.wav)
