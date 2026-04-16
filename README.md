@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://github.com/directoryuser1">
-  <img src="picasion.com_lDmL.gif" width="90">
+  <img src="picasion.com_lDmL.gif" width="70">
 </a>
   
 &nbsp;&nbsp;&nbsp;
